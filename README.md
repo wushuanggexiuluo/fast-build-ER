@@ -10,7 +10,7 @@
 ### 1 发行版下载、直接控制台/终端运行
 #### 发行版下载!
 https://gitee.com/wsgxl/fast-build-ER/releases
-
+![输入图片说明](src/main/resources/img/image.png)
 #### 打开终端运行
 ![img_4.png](src%2Fmain%2Fresources%2Fimg%2Fimg_4.png)
 ### 2 输入相关信息
